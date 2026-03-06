@@ -1,0 +1,33 @@
+# NetBeans IDE files
+nbproject/private/
+build/
+dist/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database dumps (if any)
+*.sql
+*.db
+
+# JasperReports temp files
+*.jrxml
+
+# IDE metadata / temp
+*.iml
+*.idea/
+*.classpath
+*.project
+
+# Eclipse / IntelliJ / VS Code
+*.settings/
+
+# Other temporary files
+*.tmp
+*.bak
+*.swp
